@@ -1,4 +1,4 @@
-# improved-autocomplete-shopify-search-box
+# Shopify Improved Autocomplete Search Box Master
 This is a improved version of shopify search box autocomplete function.
 Based on shopify's original version.
 Solved the problem: when your titles are all very long and cannot be desplayed inside the box.
